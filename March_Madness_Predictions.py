@@ -132,4 +132,4 @@ def predict_it(year,higher_seed,lower_seed):
 
     return pred_df
 
-predict_it(2025,"Arizona","Oregon")
+predict_it(2025,"Auburn","Alabama St")
